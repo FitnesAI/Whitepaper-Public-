@@ -4,7 +4,7 @@
 
 * [📜 Information](README.md)
 * [📊 Distribution](tokenomics/distribution.md)
-* [🤳 Buy AI-Fitnes](https://pinksale.com)
+* [🤳 Buy AI-Fitnes](https://www.pinksale.finance/launchpad/0x5f6A92A14cBED2D4f2a076AeAB88C45F2B76bf82?chain=BSC)
 
 ## AiFitnes
 
