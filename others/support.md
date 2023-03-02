@@ -5,4 +5,3 @@ They must send an email with the desired problem, either for reasons of errors i
 **info@aifitnes.com**\
 ****
 
-Note: AiFitnes is currently in the development phase, so the content of the Whitepaper could change in the future.
