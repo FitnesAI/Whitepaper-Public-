@@ -2,7 +2,7 @@
 
 AiFitnes is a TOKEN that uses the Binance Smart Chain network and is used as currency within the AiFitnes ecosystem.
 
-* _**Fair Launch Address:**_&#x20;
+* _**Fair Launch Address:**_  [_**BUY NOW!**_](https://www.pinksale.finance/launchpad/0x5f6A92A14cBED2D4f2a076AeAB88C45F2B76bf82?chain=BSC)_****_
 * **Contract Address:** [0x98941890cF5A78cA310F71DfEFA93AfF8C592eD5](https://bscscan.com/token/0x98941890cf5a78ca310f71dfefa93aff8c592ed5)
 * _**Total Supply:**_ 100,000,000&#x20;
 * _**Name:**_ AiFitnes
