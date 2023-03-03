@@ -11,8 +11,8 @@ AiFitnes is a TOKEN that uses the Binance Smart Chain network and is used as cur
 * **Liquidity Lock:** 6 months = 220 days
 * **Network:**  Binance Smart Chain&#x20;
 * _**Soft Cap:** 15 BNB_
-* _**Presale Start Time:**_ 2023.03&#x20;
-* _**Presale End Time:**_ 2023.03&#x20;
+* _**Presale Start Time:**_ 2023.03.05 | 14:00 (UTC)
+* _**Presale End Time:**_ 2023.03.09 | 15:00 (UTC)
 
 {% hint style="success" %}
 ### Tax:    Buy  0% | Sale 0 <a href="#fees-purchase-0-and-sale-0" id="fees-purchase-0-and-sale-0"></a>
